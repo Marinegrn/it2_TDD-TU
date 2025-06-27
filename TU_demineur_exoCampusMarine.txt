@@ -1,0 +1,5 @@
+// =================== NOTES A MOI-MEME : INSTRUCTIONS D'INSTALLATION JEST ===================
+1. npm install --save-dev JEST
+2. Ajout script des test dans package.json
+3. Lancement de test -> npm test (ou yarn test avec yarn)
+4. Ne pas oublier la ligne suivante -> module.exports = Minesweeper; avec l'utilisation d'un require
